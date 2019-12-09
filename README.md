@@ -3,3 +3,8 @@
 ![screenshot](https://github.com/azdrenymeri/etch-a-sketch/blob/master/scr.JPG)
 
 ### [Live Version](https://azdrenymeri.github.io/etch-a-sketch/)
+
+#### How to install/use
+
+1. `git clone https://github.com/azdrenymeri/etch-a-sketch.git`
+2. Open `index.html` and you are done
